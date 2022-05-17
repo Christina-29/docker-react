@@ -8,4 +8,4 @@ before_install:
 
 
 script:
-  - docker run christina0821/docker-react npm run test -- -- coverage
+  - docker run christina0821/docker-react npm run test -- --coverage
